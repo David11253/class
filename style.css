@@ -103,13 +103,4 @@ body {
     font-size: 24px;
     cursor: pointer;
   }
-  @media (max-width: 768px) {
-    table {
-      width: 100%;
-      font-size: 14px;
-    }
-  
-    th, td {
-      padding: 8px;
-    }
-  }  
+
