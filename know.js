@@ -115,7 +115,7 @@ const lessonOneDayOneWeek = {
       day2: {
         date: "2025-01-28",
         lesson1: "литература",
-        lesson1hom: "",
+        lesson1hom: "учить стих на выбор ",
         lesson2: "литература",
         lesson2hom: "",
         lesson3: "математика",
