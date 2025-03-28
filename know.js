@@ -4,26 +4,26 @@ const lessonOneDayOneWeek = {
     // Неделя 1
     week1: {
       day1: {
-        date: "2025-01-20", // Дата для первого дня
+        date: "2025-03-31", // Дата для первого дня
         lesson1: "ЧиО",
         lesson1hom: "",
         lesson2: "русский язык",
-        lesson2hom: "",
+        lesson2hom: "442",
         lesson3: "русский язык",
-        lesson3hom: "",
+        lesson3hom: "442",
         lesson4: "кыргызский язык",
-        lesson4hom: "",
+        lesson4hom: "написать к картинкам предложения стр 83 упр 1",
         lesson5: "математика",
-        lesson5hom: "",
+        lesson5hom: "1330 (г) 1342 а)в)е)м)",
         lesson6: "технология",
-        lesson6hom: "",
+        lesson6hom: "нарисовать дизайн своей комнаты какую комнату ты бы хотел и все должно сочетаться",
       },
       day2: {
-        date: "2025-01-21",
+        date: "2025-04-1",
         lesson1: "литература",
-        lesson1hom: "",
+        lesson1hom: "читать уроки французского стр 115",
         lesson2: "литература",
-        lesson2hom: "",
+        lesson2hom: "читать уроки французского стр 115",
         lesson3: "математика",
         lesson3hom: "",
         lesson4: "математика",
@@ -34,11 +34,11 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day3: {
-        date: "2025-01-22",
+        date: "2025-04-2",
         lesson1: "история",
         lesson1hom: "",
         lesson2: "английский язык",
-        lesson2hom: "",
+        lesson2hom: "картинка над номером 1 стр 86 и номер 1 а)б)",
         lesson3: "кыргызская литература",
         lesson3hom: "",
         lesson4: "русский язык",
@@ -49,7 +49,7 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day4: {
-        date: "2025-01-23",
+        date: "2025-04-3",
         lesson1: "музыка",
         lesson1hom: "",
         lesson2: "математика",
@@ -57,14 +57,14 @@ const lessonOneDayOneWeek = {
         lesson3: "английский язык",
         lesson3hom: "",
         lesson4: "биология",
-        lesson4hom: "",
+        lesson4hom: "параграф 50 (стр260) рис 206 (стр 263) рис 207 (стр 264)",
         lesson5: "биология",
         lesson5hom: "",
         lesson6: "физкультура",
         lesson6hom: "форма",
       },
       day5: {
-        date: "2025-01-24",
+        date: "2025-04-4",
         lesson1: "география",
         lesson1hom: "",
         lesson2: "ОИВТ",
@@ -72,14 +72,14 @@ const lessonOneDayOneWeek = {
         lesson3: "английский язык",
         lesson3hom: "",
         lesson4: "ИХТ",
-        lesson4hom: "",
+        lesson4hom: "рисунок на 9 мая",
         lesson5: "география",
         lesson5hom: "",
         lesson6: "классный час",
         lesson6hom: "",
       },
       day6: {
-        date: "2025-01-25",
+        date: "2025-04-5",
         lesson1: "суббота",
         lesson1hom: "отдых",
         lesson2: "суббота",
@@ -98,7 +98,7 @@ const lessonOneDayOneWeek = {
     // Неделя 2
     week2: {
       day1: {
-        date: "2025-01-27", // Дата для первого дня второй недели
+        date: "2025-04-3", // Дата для первого дня второй недели
         lesson1: "ЧиО",
         lesson1hom: "",
         lesson2: "русский язык",
@@ -113,7 +113,7 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day2: {
-        date: "2025-01-28",
+        date: "2025-04-9",
         lesson1: "литература",
         lesson1hom: "",
         lesson2: "литература",
@@ -128,7 +128,7 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day3: {
-        date: "2025-01-29",
+        date: "2025-04-10",
         lesson1: "история",
         lesson1hom: "",
         lesson2: "английский язык",
@@ -143,7 +143,7 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day4: {
-        date: "2025-01-30",
+        date: "2025-04-11",
         lesson1: "музыка",
         lesson1hom: "",
         lesson2: "математика",
@@ -158,7 +158,7 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day5: {
-        date: "2025-01-31",
+        date: "2025-04-12",
         lesson1: "география",
         lesson1hom: "",
         lesson2: "ОИВТ",
@@ -173,7 +173,7 @@ const lessonOneDayOneWeek = {
         lesson6hom: "",
       },
       day6: {
-        date: "2025-02-1",
+        date: "2025-04-13",
         lesson1: "суббота",
         lesson1hom: "отдых",
         lesson2: "суббота",
