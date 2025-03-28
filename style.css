@@ -149,6 +149,7 @@ tr:hover td {
 }
 
 /* Создание множества снежинок с разными параметрами */
+/* Создание множества снежинок с разными параметрами */
 .snowflake:nth-child(1) { left: 5%; animation-duration: 12s; }
 .snowflake:nth-child(2) { left: 15%; animation-duration: 14s; }
 .snowflake:nth-child(3) { left: 25%; animation-duration: 10s; }
